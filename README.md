@@ -6,3 +6,12 @@ auto
 default
 none
 ```
+
+### Links & Status
+```css
+context-menu
+help
+pointer
+progress
+wait
+```
