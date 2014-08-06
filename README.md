@@ -1,4 +1,8 @@
-cursor
-======
+# CSS `cursor: values`
 
-CSS cursor values (auto, pointer, help, etc.)
+### General
+```css
+auto
+default
+none
+```
