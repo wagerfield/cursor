@@ -57,3 +57,9 @@ nwse-resize
 zoom-in
 zoom-out
 ```
+
+### Grab
+```css
+grab
+grabbing
+```
