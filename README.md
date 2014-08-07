@@ -15,3 +15,11 @@ pointer
 progress
 wait
 ```
+
+### Selection
+```css
+cell
+crosshair
+text
+vertical-text
+```
