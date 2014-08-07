@@ -4,7 +4,7 @@
 
 #### General
 * `auto`
-* `default` ![all-scroll][all-scroll]
+* `default` ![default][default]
 * `none`
 
 #### Links & Status
@@ -70,43 +70,43 @@ Licensed under [MIT][mit]. Enjoy.
 [mit]: http://www.opensource.org/licenses/mit-license.php
 [mozilla]: https://developer.mozilla.org/en-US/docs/Web/CSS/cursor
 
-[default]: https://developer.mozilla.org/@api/deki/files/3432/=default.gif
+[default]: https://developer.mozilla.org/@api/deki/files/3438/=default.gif
 
-[context-menu]: https://developer.mozilla.org/@api/deki/files/3432/=context-menu.gif
-[help]: https://developer.mozilla.org/@api/deki/files/3432/=help.gif
-[pointer]: https://developer.mozilla.org/@api/deki/files/3432/=pointer.gif
-[progress]: https://developer.mozilla.org/@api/deki/files/3432/=progress.gif
-[wait]: https://developer.mozilla.org/@api/deki/files/3432/=wait.gif
+[context-menu]: https://developer.mozilla.org/@api/deki/files/3461/=context-menu.png
+[help]: https://developer.mozilla.org/@api/deki/files/3442/=help.gif
+[pointer]: https://developer.mozilla.org/@api/deki/files/3449/=pointer.gif
+[progress]: https://developer.mozilla.org/@api/deki/files/3450/=progress.gif
+[wait]: https://developer.mozilla.org/@api/deki/files/3457/=wait.gif
 
-[cell]: https://developer.mozilla.org/@api/deki/files/3432/=cell.gif
-[crosshair]: https://developer.mozilla.org/@api/deki/files/3432/=crosshair.gif
-[text]: https://developer.mozilla.org/@api/deki/files/3432/=text.gif
-[vertical-text]: https://developer.mozilla.org/@api/deki/files/3432/=vertical-text.gif
+[cell]: https://developer.mozilla.org/@api/deki/files/3434/=cell.gif
+[crosshair]: https://developer.mozilla.org/@api/deki/files/3437/=crosshair.gif
+[text]: https://developer.mozilla.org/files/3809/text.gif
+[vertical-text]: https://developer.mozilla.org/@api/deki/files/3456/=vertical-text.gif
 
 [alias]: https://developer.mozilla.org/@api/deki/files/3432/=alias.gif
-[copy]: https://developer.mozilla.org/@api/deki/files/3432/=copy.gif
-[move]: https://developer.mozilla.org/@api/deki/files/3432/=move.gif
-[no-drop]: https://developer.mozilla.org/@api/deki/files/3432/=no-drop.gif
-[not-allowed]: https://developer.mozilla.org/@api/deki/files/3432/=not-allowed.gif
+[copy]: https://developer.mozilla.org/@api/deki/files/3436/=copy.gif
+[move]: https://developer.mozilla.org/@api/deki/files/3443/=move.gif
+[no-drop]: https://developer.mozilla.org/@api/deki/files/3445/=no-drop.gif
+[not-allowed]: https://developer.mozilla.org/@api/deki/files/3446/=not-allowed.gif
 
-[all-scroll]: https://developer.mozilla.org/@api/deki/files/3432/=all-scroll.gif
-[col-resize]: https://developer.mozilla.org/@api/deki/files/3432/=col-resize.gif
-[row-resize]: https://developer.mozilla.org/@api/deki/files/3432/=row-resize.gif
-[n-resize]: https://developer.mozilla.org/@api/deki/files/3432/=n-resize.gif
-[e-resize]: https://developer.mozilla.org/@api/deki/files/3432/=e-resize.gif
-[s-resize]: https://developer.mozilla.org/@api/deki/files/3432/=s-resize.gif
-[w-resize]: https://developer.mozilla.org/@api/deki/files/3432/=w-resize.gif
-[ne-resize]: https://developer.mozilla.org/@api/deki/files/3432/=ne-resize.gif
-[nw-resize]: https://developer.mozilla.org/@api/deki/files/3432/=nw-resize.gif
-[se-resize]: https://developer.mozilla.org/@api/deki/files/3432/=se-resize.gif
-[sw-resize]: https://developer.mozilla.org/@api/deki/files/3432/=sw-resize.gif
-[ew-resize]: https://developer.mozilla.org/@api/deki/files/3432/=3-resize.gif
-[ns-resize]: https://developer.mozilla.org/@api/deki/files/3432/=6-resize.gif
-[nesw-resize]: https://developer.mozilla.org/@api/deki/files/3432/=1-resize.gif
-[nwse-resize]: https://developer.mozilla.org/@api/deki/files/3432/=4-resize.gif
+[all-scroll]: https://developer.mozilla.org/@api/deki/files/3433/=all-scroll.gif
+[col-resize]: https://developer.mozilla.org/@api/deki/files/3435/=col-resize.gif
+[row-resize]: https://developer.mozilla.org/@api/deki/files/3451/=row-resize.gif
+[n-resize]: https://developer.mozilla.org/files/4083/n-resize.gif
+[e-resize]: https://developer.mozilla.org/files/4085/e-resize.gif
+[s-resize]: https://developer.mozilla.org/files/4087/s-resize.gif
+[w-resize]: https://developer.mozilla.org/files/4089/w-resize.gif
+[ne-resize]: https://developer.mozilla.org/files/4091/ne-resize.gif
+[nw-resize]: https://developer.mozilla.org/files/4093/nw-resize.gif
+[se-resize]: https://developer.mozilla.org/files/4097/se-resize.gif
+[sw-resize]: https://developer.mozilla.org/files/4095/sw-resize.gif
+[ew-resize]: https://developer.mozilla.org/files/3806/3-resize.gif
+[ns-resize]: https://developer.mozilla.org/files/3808/6-resize.gif
+[nesw-resize]: https://developer.mozilla.org/files/3805/1-resize.gif
+[nwse-resize]: https://developer.mozilla.org/files/3807/4-resize.gif
 
-[zoom-in]: https://developer.mozilla.org/@api/deki/files/3432/=zoom-in.gif
-[zoom-out]: https://developer.mozilla.org/@api/deki/files/3432/=zoom-out.gif
+[zoom-in]: https://developer.mozilla.org/@api/deki/files/3459/=zoom-in.gif
+[zoom-out]: https://developer.mozilla.org/@api/deki/files/3460/=zoom-out.gif
 
-[grab]: https://developer.mozilla.org/@api/deki/files/3432/=grab.gif
-[grabbing]: https://developer.mozilla.org/@api/deki/files/3432/=grabbing.gif
+[grab]: https://developer.mozilla.org/@api/deki/files/3440/=grab.gif
+[grabbing]: https://developer.mozilla.org/@api/deki/files/3441/=grabbing.gif
