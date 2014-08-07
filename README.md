@@ -2,56 +2,50 @@
 
 > A complete list of CSS `cursor` values. [***Check out the site to see them all in action!***][site]
 
-#### General
-* `auto`
-* `default` ![default][default]
-* `none`
-
-#### Links & Status
-* `context-menu` ![context-menu][context-menu]
-* `help` ![help][help]
-* `pointer` ![pointer][pointer]
-* `progress` ![progress][progress]
-* `wait` ![wait][wait]
-
-#### Selection
-* `cell` ![cell][cell]
-* `crosshair` ![crosshair][crosshair]
-* `text` ![text][text]
-* `vertical-text` ![vertical-text][vertical-text]
-
-#### Drag & Drop
-* `alias` ![alias][alias]
-* `copy` ![copy][copy]
-* `move` ![move][move]
-* `no-drop` ![no-drop][no-drop]
-* `not-allowed` ![not-allowed][not-allowed]
-
-#### Resize & Scrolling
-* `all-scroll` ![all-scroll][all-scroll]
-* `col-resize` ![col-resize][col-resize]
-* `row-resize` ![row-resize][row-resize]
-* `n-resize` ![n-resize][n-resize]
-* `e-resize` ![e-resize][e-resize]
-* `s-resize` ![s-resize][s-resize]
-* `w-resize` ![w-resize][w-resize]
-* `ne-resize` ![ne-resize][ne-resize]
-* `nw-resize` ![nw-resize][nw-resize]
-* `se-resize` ![se-resize][se-resize]
-* `sw-resize` ![sw-resize][sw-resize]
-* `ew-resize` ![ew-resize][ew-resize]
-* `ns-resize` ![ns-resize][ns-resize]
-* `nesw-resize` ![nesw-resize][nesw-resize]
-* `nwse-resize` ![nwse-resize][nwse-resize]
-
-#### Zoom
-* `zoom-in` ![zoom-in][zoom-in]
-* `zoom-out` ![zoom-out][zoom-out]
-
-#### Grab
-**NOTE:** the following two values require vendor prefixes
-* `grab` ![grab][grab]
-* `grabbing` ![grabbing][grabbing]
+**GENERAL**|-
+:-:|:-:
+`auto`|-
+`default`|![default][default]
+`none`|-
+**LINKS & STATUS**|-
+`context-menu`|![context-menu][context-menu]
+`help`|![help][help]
+`pointer`|![pointer][pointer]
+`progress`|![progress][progress]
+`wait`|![wait][wait]
+**SELECTION**|-
+`cell`|![cell][cell]
+`crosshair`|![crosshair][crosshair]
+`text`|![text][text]
+`vertical-text`|![vertical-text][vertical-text]
+**DRAG & DROP**|-
+`alias`|![alias][alias]
+`copy`|![copy][copy]
+`move`|![move][move]
+`no-drop`|![no-drop][no-drop]
+`not-allowed`|![not-allowed][not-allowed]
+**RESIZE & SCROLLING**|-
+`all-scroll`|![all-scroll][all-scroll]
+`col-resize`|![col-resize][col-resize]
+`row-resize`|![row-resize][row-resize]
+`n-resize`|![n-resize][n-resize]
+`e-resize`|![e-resize][e-resize]
+`s-resize`|![s-resize][s-resize]
+`w-resize`|![w-resize][w-resize]
+`ne-resize`|![ne-resize][ne-resize]
+`nw-resize`|![nw-resize][nw-resize]
+`se-resize`|![se-resize][se-resize]
+`sw-resize`|![sw-resize][sw-resize]
+`ew-resize`|![ew-resize][ew-resize]
+`ns-resize`|![ns-resize][ns-resize]
+`nesw-resize`|![nesw-resize][nesw-resize]
+`nwse-resize`|![nwse-resize][nwse-resize]
+**ZOOM**|-
+`zoom-in`|![zoom-in][zoom-in]
+`zoom-out`|![zoom-out][zoom-out]
+**GRAB**|-
+`grab`|![grab][grab]
+`grabbing`|![grabbing][grabbing]
 
 ## Credits
 
