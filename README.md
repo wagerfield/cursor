@@ -1,8 +1,8 @@
 # `cursor:values`
 
-> A complete list of CSS `cursor` values
+> A complete list of CSS `cursor` values. [***Check out the site to see them all in action!***][site]
 
-#### [*Check out the site to see them all in action!*][site]
+####
 
 ---
 
