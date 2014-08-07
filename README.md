@@ -32,3 +32,22 @@ move
 no-drop
 not-allowed
 ```
+
+### Resize & Scrolling
+```css
+all-scroll
+col-resize
+row-resize
+n-resize
+e-resize
+s-resize
+w-resize
+ne-resize
+nw-resize
+se-resize
+sw-resize
+ew-resize
+ns-resize
+nesw-resize
+nwse-resize
+```
