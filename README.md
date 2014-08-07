@@ -51,3 +51,9 @@ ns-resize
 nesw-resize
 nwse-resize
 ```
+
+### Zoom
+```css
+zoom-in
+zoom-out
+```
