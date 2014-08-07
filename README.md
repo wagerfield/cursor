@@ -23,3 +23,12 @@ crosshair
 text
 vertical-text
 ```
+
+### Drag & Drop
+```css
+alias
+copy
+move
+no-drop
+not-allowed
+```
