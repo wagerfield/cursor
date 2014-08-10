@@ -1,6 +1,7 @@
+// https://developer.mozilla.org/en-US/docs/Web/CSS/cursor
 (function(window) {
 
-  window.CURSORS = [];
+  var cursors = window.CURSORS = [];
 
   // General Cursors
   addCursor('General', 'auto');
@@ -45,8 +46,8 @@
   addCursor('Resize & Scrolling', 'nwse-resize');
 
   // Zoom Cursors
-  addCursor('Zoom', 'zoom-in');
-  addCursor('Zoom', 'zoom-out');
+  addCursor('Zoom', 'zoom-in', ['webkit']);
+  addCursor('Zoom', 'zoom-out', ['webkit']);
 
   // Grab Cursors
   addCursor('Grab', 'grab', ['moz', 'webkit']);
@@ -61,6 +62,7 @@
     if (prefixes !== undefined) {
       cursor.prefixes = prefixes;
     }
+    cursors.push(cursor);
   }
 
 })(window);
