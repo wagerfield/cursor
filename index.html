@@ -71,8 +71,13 @@
 
     <div id="fb-root"></div>
 
-    <div id="container" class="wrapper">
+    <div class="wrapper">
+      <header>
+        <h1>cursor:<span id="header-value">values</span></h1>
+      </header>
+      <ul id="cursor-list"></ul>
       <footer>
+        <a href="https://twitter.com/wagerfield" class="twitter-follow-button" data-show-count="false">Follow <span class="handle">@wagerfield</span></a>
         <div class="fb-like" data-href="http://matthew.wagerfield.com/cursor/" data-width="400" data-layout="button_count" data-show-faces="false" data-send="false"></div>
         <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://matthew.wagerfield.com/cursor/" data-text="Who knew the cursor was so versatile? Check out cursor:values by @wagerfield »">Tweet</a>
       </footer>
@@ -82,7 +87,22 @@
     <script src="cursors.js"></script>
     <script>
 
+    var headerValue = document.getElementById('header-value');
+    var cursorList = document.getElementById('cursor-list');
 
+    for (var i = 0, l = CURSORS.length; i < l; i++) {
+      appendCursorItem(CURSORS[i]);
+    }
+
+    function appendCursorItem(definition) {
+      var listItem = document.createElement('li');
+      var cursorValues = [definition.value];
+      listItem.innerText = definition.value;
+      for (var i = 0, l = cursorValues.length; i < l; i++) {
+        listItem.style.cursor = cursorValues[i];
+      }
+      cursorList.appendChild(listItem);
+    }
 
     // Twitter stuff.
     !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
